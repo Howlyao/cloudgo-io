@@ -25,8 +25,7 @@
 
 ![](https://github.com/Howlyao/cloudgo-io/raw/master/images/3.jpg)
 
-####  在register页面表单输入相关信息，点击register按钮,提交表单，对服务器发送POST请求，返回inf.html页面信息，其中inf.html显示一个记录输入信息的表格（模板输出，
-{{.Username}}获取服务器后台信息）
+####  在register页面表单输入相关信息，点击register按钮,提交表单，对服务器发送POST请求，返回inf.html页面信息，其中inf.html显示一个记录输入信息的表格（模板输出，{{.Username}}获取服务器后台信息）
 
 ![](https://github.com/Howlyao/cloudgo-io/raw/master/images/4.jpg)
 
